@@ -5,7 +5,7 @@
 [![Bugs](https://img.shields.io/badge/bugs-0%20expected%2C%20%E2%88%9E%20delivered-success)](https://github.com/lohmibln/testiii)
 [![GitHub stars](https://img.shields.io/github/stars/lohmibln/testiii?style=social&label=Stars%20(nicht%20vorhanden))](https://github.com/lohmibln/testiii)
 
-&gt; *"Dieses Repo hat mein Leben verändert. Vorher war ich nur Lucas, jetzt bin ich Lucas mit einer `testiii`-Repo."* — **Lucas** (Mitautor & Visionär)
+> *"Dieses Repo hat mein Leben verändert. Vorher war ich nur Lucas, jetzt bin ich Lucas mit einer `testiii`-Repo."* — **Lucas** (Mitautor & Visionär)
 
 ---
 
@@ -34,20 +34,20 @@ Dieses Repository repräsentiert den Zenit menschlicher Kollaboration. Jahrelang
 
 ## 🗣️ Was die Menschen sagen
 
-&gt; ⭐⭐⭐⭐⭐ **"Ich habe seitdem aufgehört, meine Steuererklärung zu machen. Stattdessen schaue ich auf dieses Repo."**
-&gt; — *Ein anonymer Steuerberater aus Berlin*
+> ⭐⭐⭐⭐⭐ **"Ich habe seitdem aufgehört, meine Steuererklärung zu machen. Stattdessen schaue ich auf dieses Repo."**
+> — *Ein anonymer Steuerberater aus Berlin*
 
-&gt; ⭐⭐⭐⭐⭐ **"Seitdem Lucas und Christian.S dieses Repo erstellten, ist mein Haustier nicht mehr gestresst."**
-&gt; — *Frau Müller, Nachbarin, 2. Stock*
+> ⭐⭐⭐⭐⭐ **"Seitdem Lucas und Christian.S dieses Repo erstellten, ist mein Haustier nicht mehr gestresst."**
+> — *Frau Müller, Nachbarin, 2. Stock*
 
-&gt; ⭐⭐⭐⭐⭐ **"Ich habe damit meine Ehe gerettet. Nicht wirklich, aber das Repo ist cool."**
-&gt; — *Christian.S's alternativer Account*
+> ⭐⭐⭐⭐⭐ **"Ich habe damit meine Ehe gerettet. Nicht wirklich, aber das Repo ist cool."**
+> — *Christian.S's alternativer Account*
 
-&gt; ⭐⭐⭐⭐ **"Gut, dass es auf GitHub ist und nicht auf meinem Desktop."**
-&gt; — *Der GitHub-Server, wahrscheinlich*
+> ⭐⭐⭐⭐ **"Gut, dass es auf GitHub ist und nicht auf meinem Desktop."**
+> — *Der GitHub-Server, wahrscheinlich*
 
-&gt; ⭐⭐⭐⭐⭐ **"Vor diesem Repo war ich nichts. Jetzt bin ich immer noch nichts, aber mit Commit-Rechten."**
-&gt; — *Lucas, nach dem ersten erfolgreichen Push ohne `-f`*
+> ⭐⭐⭐⭐⭐ **"Vor diesem Repo war ich nichts. Jetzt bin ich immer noch nichts, aber mit Commit-Rechten."**
+> — *Lucas, nach dem ersten erfolgreichen Push ohne `-f`*
 
 ---
 
@@ -68,27 +68,46 @@ git log --oneline
 
 # Weine leise
 exit
+```
 
+---
 
+## 🛠️ Verwendung
+
+```python
 # Dieser Code macht nichts, aber er tut es effizient
 from testiii import testiii
 
 result = testiii.do_nothing()
 # Rückgabewert: None
 # Lebensveränderung: 100%
-
-🎯 Roadmap
-[x] Repo erstellen
-[x] README.md schreiben, die zu 90% aus Lügen besteht
-[x] Sich gegenseitig als "Software-Engineer" bezeichnen
-[ ] Sinnvollen Code schreiben (verschoben auf "irgendwann")
-[ ] Die deutsche Bürokratie damit ersetzen
-[ ] Weltfrieden durch git merge
-📜 Lizenz
-Dieses Projekt ist unter der "Macht damit was ihr wollt, wir gucken Netflix"-Lizenz lizenziert.
-<p align="center">
-  <b>Mit 💙, ☕ und 0 (null) merges in Production erstellt von</b><br>
-  <i>Lucas & Christian.S — Berlin, irgendwann im April 2026</i><br><br>
-  <sub>*"Wir sollten echt mal anfangen, echte Projekte zu machen." — "Ja, aber erst nach einem weiteren Commit in testiii."*</sub>
-</p>
 ```
+
+---
+
+## 🎯 Roadmap
+
+- [x] Repo erstellen
+- [x] README.md schreiben, die zu 90% aus Lügen besteht
+- [x] Sich gegenseitig als "Software-Engineer" bezeichnen
+- [ ] Sinnvollen Code schreiben (verschoben auf "irgendwann")
+- [ ] Die deutsche Bürokratie damit ersetzen
+- [ ] Weltfrieden durch `git merge`
+
+---
+
+## 📜 Lizenz
+
+Dieses Projekt ist unter der **"Macht damit was ihr wollt, wir gucken Netflix"-Lizenz** lizenziert.
+
+---
+
+<div align="center">
+
+**Mit 💙, ☕ und 0 (null) merges in Production**
+
+*erstellt von Lucas & Christian.S — Berlin, irgendwann im April 2026*
+
+<sup>"Wir sollten echt mal anfangen, echte Projekte zu machen." — "Ja, aber erst nach einem weiteren Commit in testiii."</sup>
+
+</div>
